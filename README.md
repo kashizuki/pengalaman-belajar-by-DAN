@@ -1,5 +1,10 @@
 # pengalaman-belajar-by-DAN
 
 misalnya :
-Pada kolom pertama atau commit message isikan dengan “Menambahkan progres belajar Java sebesar 21%.”, sedangkan pada kolom kedua atau commit description isikan dengan,
+Pengalaman Belajar di Dicoding
+
+14 Juni 2021
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+* Belajar tentang apa itu Java dan alasan menggunakannya.
+* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
 
